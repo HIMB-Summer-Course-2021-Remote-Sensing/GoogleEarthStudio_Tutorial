@@ -5,7 +5,7 @@ date: "5/21/2021"
 output: html_document
 ---
 
-## Summary 
+## Summary  
 
 Tutorial on key features of Google Earth Studio. 
 
@@ -16,7 +16,7 @@ Tutorial on key features of Google Earth Studio.
 
 ## Components
 
-#### Making a simple movie  
+#### Making a simple movie
 
 * Using Chrome browser (required), sign in to [Google Earth Studio](https://www.google.com/earth/studio/)
 * Click "Try Earth Studio"
