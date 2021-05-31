@@ -1,7 +1,7 @@
 Remote\_Sensing\_GoogleEarthStudio\_Tutorial
 ================
 Elizabeth Madin
-5/21/2021
+2021-05-30
 
 ## Summary
 

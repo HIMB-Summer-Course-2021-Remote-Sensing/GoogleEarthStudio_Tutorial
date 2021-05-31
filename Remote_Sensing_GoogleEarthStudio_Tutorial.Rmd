@@ -1,7 +1,7 @@
 ---
 title: "Remote_Sensing_GoogleEarthStudio_Tutorial"
 author: "Elizabeth Madin"
-date: "5/21/2021"
+date: "`r format(Sys.Date())`"
 output: 
   github_document
   #html_document
