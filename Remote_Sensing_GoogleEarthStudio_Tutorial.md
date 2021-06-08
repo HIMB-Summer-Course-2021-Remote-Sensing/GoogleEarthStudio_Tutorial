@@ -46,6 +46,7 @@ Tutorial on key features of Google Earth Studio.
           - open Quicktime
           - File -\> Open Image Sequence -\> select all images -\>
             Choose (go)
+          - one it opens in QT, File -\> Save -\> give name and save
           - exports as .mov
       - On a PC:
           - highlight all .jpgs
