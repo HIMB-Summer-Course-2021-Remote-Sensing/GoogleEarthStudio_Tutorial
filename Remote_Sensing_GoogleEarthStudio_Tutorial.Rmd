@@ -44,7 +44,7 @@ Tutorial on key features of Google Earth Studio.
     + new window opens in Photos
     + select your .jpgs (again)
     + choose the duration for each photo (0.01 sec works well)
-    + exports as .mpeg
+    + exports as .mp4
   
 #### Making a fancier movie
 
